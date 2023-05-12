@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mession.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-12T15:21:13" hostname="MOE-1869013367" time="0.026">
+  <properties/>
+  <testcase name="someLibraryMethodReturnsTrue()" classname="Mession.LibraryTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
